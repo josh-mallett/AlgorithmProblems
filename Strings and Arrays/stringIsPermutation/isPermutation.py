@@ -1,3 +1,5 @@
+# checks if two strings are permutations of the other
+
 def main():
     print('\n' + 'playground : lpaygruodn -> ' + str(isPermutation('playground', 'lpaygruodn')) + '\n')
     print('hello : hello -> ' + str(isPermutation('hello', 'hello')) + '\n')
