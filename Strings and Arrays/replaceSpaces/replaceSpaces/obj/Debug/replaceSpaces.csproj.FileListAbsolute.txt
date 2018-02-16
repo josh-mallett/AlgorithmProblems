@@ -1,0 +1,6 @@
+C:\LHCDevelopment\AppDev\replaceSpaces\replaceSpaces\bin\Debug\replaceSpaces.exe.config
+C:\LHCDevelopment\AppDev\replaceSpaces\replaceSpaces\bin\Debug\replaceSpaces.exe
+C:\LHCDevelopment\AppDev\replaceSpaces\replaceSpaces\bin\Debug\replaceSpaces.pdb
+C:\LHCDevelopment\AppDev\replaceSpaces\replaceSpaces\obj\Debug\replaceSpaces.csprojResolveAssemblyReference.cache
+C:\LHCDevelopment\AppDev\replaceSpaces\replaceSpaces\obj\Debug\replaceSpaces.exe
+C:\LHCDevelopment\AppDev\replaceSpaces\replaceSpaces\obj\Debug\replaceSpaces.pdb
