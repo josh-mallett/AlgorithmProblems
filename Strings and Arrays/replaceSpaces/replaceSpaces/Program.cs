@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+// replaces each space in a given string with a defined string
 namespace replaceSpaces
 {
     class Program
@@ -28,7 +29,7 @@ namespace replaceSpaces
             int oldStringIndex = oldString.Length - 1;
             string result;
 
-            for(int i = newString.Length - 1; i >= 0; i--)
+            for(int i = newLength - 1; i >= 0; i--)
             {
                 if (oldString[oldStringIndex] == ' ')
                 {
